@@ -2,4 +2,4 @@
 This is a URL shortener created for Discord servers. You will need PHP to install this.
 
 # Live demo
-http://discord.x10host.com
+https://discord.danwin1210.me
